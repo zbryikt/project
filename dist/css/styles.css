@@ -79,6 +79,10 @@ catt{
     z-index:-1;
 }
 
+child{
+    z-index:1
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
