@@ -73,6 +73,12 @@ body {
   outline: 0 !important;
 }
 
+catt{
+    max-width:1920px;
+    max-height:1080px;
+    z-index:-1;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
